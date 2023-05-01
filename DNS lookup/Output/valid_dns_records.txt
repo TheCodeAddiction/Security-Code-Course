@@ -1,0 +1,155 @@
+ekstern.politiet.no. 319 IN MX 40 klynge.politiet.no.
+ekstern.politiet.no. 319 IN MX 10 alfa.politiet.no.
+ekstern.politiet.no. 319 IN MX 10 bravo.politiet.no.
+vid.csam.politiet.no. 2635 IN A 51.120.88.108
+chat.csam.politiet.no. 2635 IN A 51.120.88.108
+secgwtest.politiet.no. 2635 IN A 163.174.97.83
+fjernaksess.politiet.no. 1673 IN A 163.174.97.23
+pass-og-id.politiet.no. 2635 IN A 185.48.155.225
+pass-og-id.politiet.no. 2635 IN AAAA 2a00:75e0:ffff:f004::12
+politietcmg.politiet.no. 2635 IN CNAME politietcmg.cloudapp.net.
+politietcmg.politiet.no. 2635 IN CNAME politietcmg.cloudapp.net.
+mobiliti.politiet.no. 126 IN A 163.174.97.4
+testmam.politiet.no. 426 IN A 163.174.97.120
+testmdm.politiet.no. 426 IN A 163.174.97.19
+mobipol.politiet.no. 2635 IN A 163.174.97.17
+websb.politiet.no. 2635 IN A 163.174.97.11
+logginn-u.politiet.no. 2635 IN A 163.174.97.130
+logginn-t.politiet.no. 2635 IN A 163.174.97.131
+mailgw1.politiet.no. 2635 IN A 163.174.97.45
+iddev.politiet.no. 2635 IN A 20.101.13.11
+nora.test.politiet.no. 2635 IN CNAME publicservices.test.politiet.no.
+nora.test.politiet.no. 2635 IN CNAME publicservices.test.politiet.no.
+web.pov.test.politiet.no. 2635 IN CNAME web-pittestservices.msappproxy.net.
+web.pov.test.politiet.no. 2635 IN CNAME web-pittestservices.msappproxy.net.
+web.pov.prod.politiet.no. 2635 IN CNAME web-pitservices.msappproxy.net.
+web.pov.prod.politiet.no. 2635 IN CNAME web-pitservices.msappproxy.net.
+nora.politiet.no. 2635 IN A 163.174.100.35
+secgw.politiet.no. 2635 IN A 163.174.97.52
+www.politiet.no. 425 IN CNAME politiet.no.
+www.politiet.no. 425 IN CNAME politiet.no.
+www.politiet.no. 425 IN CNAME politiet.no.
+www.politiet.no. 425 IN CNAME politiet.no.
+www.politiet.no. 425 IN CNAME politiet.no.
+www.politiet.no. 425 IN CNAME politiet.no.
+www.politiet.no. 425 IN CNAME politiet.no.
+segw4.politiet.no. 426 IN A 163.174.97.14
+segw3.politiet.no. 426 IN A 163.174.97.13
+tips.politiet.no. 2635 IN A 195.225.15.113
+edit.politiet.no. 2635 IN A 10.144.144.132
+attest.politiet.no. 2635 IN A 195.225.15.100
+id.politiet.no. 2636 IN A 20.103.240.112
+hmf.politiet.no. 2636 IN A 163.174.100.34
+mail.politiet.no. 2635 IN A 163.174.100.33
+fasmobilititest.politiet.no. 2635 IN A 163.174.97.5
+logginn.politiet.no. 426 IN A 163.174.97.15
+oidc-poc.pitlab.endor.oppl.politiet.no. 126 IN CNAME iapp.politiet.no.
+oidc-poc.pitlab.endor.oppl.politiet.no. 126 IN CNAME iapp.politiet.no.
+web.agent.prod.politiet.no. 2635 IN CNAME web-pitservices.msappproxy.net.
+web.agent.prod.politiet.no. 2635 IN CNAME web-pitservices.msappproxy.net.
+web.pov.oppl.politiet.no. 2635 IN CNAME web-pitservices.msappproxy.net.
+web.pov.oppl.politiet.no. 2635 IN CNAME web-pitservices.msappproxy.net.
+api-attest.politiet.no. 2635 IN A 195.225.15.114
+*.bks-prod.politiet.no. 10 IN A 195.225.15.116
+*.bks-dev.politiet.no. 10 IN A 195.225.15.119
+sikkerchat.dashboard.politiet.no. 2636 IN A 195.225.15.112
+sikkerchat.politiet.no. 2635 IN A 195.225.15.112
+test.attest.politiet.no. 2635 IN A 195.225.15.99
+testtips.politiet.no. 2635 IN A 195.225.15.98
+mobipolmam.politiet.no. 2635 IN A 163.174.97.47
+mdmtest.politiet.no. 426 IN A 163.174.97.18
+mobtest.politiet.no. 426 IN A 163.174.97.20
+nettbutikk.politiet.no. 126 IN A 163.174.97.140
+mx01.pst.politiet.no. 835 IN A 163.174.121.35
+fasmobiliti.politiet.no. 2635 IN A 163.174.97.9
+remote.politiet.no. 426 IN A 163.174.97.7
+pass-og-id-test.politiet.no. 2635 IN A 185.48.155.206
+pass-og-id-test.politiet.no. 2635 IN AAAA 2a00:75e0:ffff:f001::12
+pass-og-id-stage.politiet.no. 2635 IN A 185.48.155.209
+pass-og-id-stage.politiet.no. 2635 IN AAAA 2a00:75e0:ffff:f002::12
+sts.politiet.no. 426 IN A 163.174.97.16
+pnr.politiet.no. 2636 IN A 163.174.100.30
+meet.vc.politiet.no. 2636 IN A 88.151.163.75
+statistikk.politiet.no. 2636 IN A 195.225.15.116
+idqa.politiet.no. 2635 IN A 20.101.13.11
+oidc-poc.ff.endor.oppl.politiet.no. 2635 IN CNAME iapp.politiet.no.
+oidc-poc.ff.endor.oppl.politiet.no. 2635 IN CNAME iapp.politiet.no.
+evd.up.politiet.no. 426 IN A 194.19.27.13
+ff-pitservices.politiet.no. 2635 IN CNAME iapp.politiet.no.
+ff-pitservices.politiet.no. 2635 IN CNAME iapp.politiet.no.
+awopoc.politiet.no. 2635 IN A 163.174.97.37
+politisluse.politiet.no. 2635 IN A 163.174.97.34
+mobilitigw.politiet.no. 126 IN A 163.174.97.27
+mobilitigw.politiet.no. 126 IN A 163.174.97.8
+mx.up.politiet.no. 426 IN A 194.19.27.12
+politiet.no. 1856 IN A 195.225.15.101
+politiet.no. 1856 IN AAAA 2a01:600:2000:1c0::2
+politiet.no. 56 IN MX 5 mailgw1.politiet.no.
+politiet.no. 56 IN MX 5 mailgw2.politiet.no.
+politiet.no. 180 IN NS ns01.osl.basefarm.net.
+politiet.no. 180 IN NS ns01.sth.basefarm.net.
+politiet.no. 10 IN SOA ns01.osl.basefarm.net. support.basefarm.com. 2017073994 86400 3600 2419200 10
+politiet.no. 1856 IN TXT "4xw89nz0x3yjd5wxkcr43bwgh5wyhv8m"
+politiet.no. 1856 IN TXT "google-site-verification=yU1uQTtEipqDtraTMV4J3cmDaV6XJkjhtCuyuhYI1ZE"
+politiet.no. 1856 IN TXT "google-site-verification=9ujQyWBVXztOh3BLj0f0dJ-Ekl46r-viWIBKlqZZSfA"
+politiet.no. 1856 IN TXT "google-site-verification=x47nwnqGEJd7ZO7G3wh5ReeuPMT1IGMSLZd2iBCrcxg"
+politiet.no. 1856 IN TXT "citrix.mobile.ads.otp=mjvzwnxfl0ack9dp7o5th"
+politiet.no. 1856 IN TXT "v=spf1 ip4:163.174.97.45 ip4:163.174.97.46 ip4:195.225.15.65 include:spf.protection.outlook.com -all"
+mobil.politiet.no. 2635 IN A 163.174.97.6
+anmeldelse.pub.politiet.no. 2636 IN A 20.157.111.22
+preprod.politiet.no. 2636 IN A 195.225.15.109
+blodbok.politiet.no. 2636 IN A 163.174.97.25
+websb-t.politiet.no. 2635 IN A 163.174.97.134
+auth.politiet.no. 426 IN A 163.174.97.23
+www.politi.no. 2635 IN CNAME politi.no.
+www.politi.no. 2635 IN CNAME politi.no.
+www.politi.no. 2635 IN CNAME politi.no.
+www.politi.no. 2635 IN CNAME politi.no.
+www.politi.no. 2635 IN CNAME politi.no.
+www.politi.no. 2635 IN CNAME politi.no.
+mobiliti-test.politiet.no. 2636 IN A 163.174.97.121
+vg.no. 300 IN A 195.88.55.16
+vg.no. 300 IN A 195.88.54.16
+vg.no. 300 IN AAAA 2001:67c:21e0::16
+vg.no. 300 IN MX 10 ALT3.ASPMX.L.GOOGLE.COM.
+vg.no. 300 IN MX 1 ASPMX.L.GOOGLE.COM.
+vg.no. 300 IN MX 10 ALT4.ASPMX.L.GOOGLE.COM.
+vg.no. 300 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+vg.no. 300 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM.
+vg.no. 300 IN NS nsp.dnsnode.net.
+vg.no. 300 IN NS ns-foo.linpro.net.
+vg.no. 300 IN NS ns-zoo.linpro.net.
+vg.no. 300 IN NS nsb.dnsnode.net.
+vg.no. 300 IN NS nsu.dnsnode.net.
+vg.no. 300 IN NS ns-bar.linpro.net.
+vg.no. 300 IN SOA fw-hmg9.vgnett.no. hostmaster.vg.no. 2023033101 300 150 2419200 300
+vg.no. 300 IN TXT "miro-verification=eff9412c1aa1655d0a279f7d6704841b6a02b591"
+vg.no. 300 IN TXT "fastly-domain-delegation-29tfXEmvnByNT8JY-442665-2021-10-26"
+vg.no. 300 IN TXT "google-site-verification=1pgyIHHF6q_XtdnSiBJFZiJrXtcg-vpNdfWzhJtb8pM"
+vg.no. 300 IN TXT "v=spf1 include:_u.vg.no._spf.smart.ondmarc.com include:amazonses.com ~all"
+vg.no. 300 IN TXT "google-site-verification=uRwOU1tXpvCsRXnHyApK_yaMeXiTmni8cIW2KelXWO8"
+vg.no. 300 IN TXT "docker-verification=ab84c6ca-d2b1-4aca-a2b4-e39155b6c1bd"
+vg.no. 300 IN TXT "YbAMQjB2yzXf6DTU9dR9LYMQNGptykV9gN251w0knS5h2Iu4Nhk9kw6s1nzmgOCFnvxo/lekGs1PSCy3Z3oXAA=="
+vg.no. 300 IN TXT "wiz-domain-verification=52455ec02f13dfe89b5827fd5085e7ab8e918767f8461a2f5b443b5e0dd6cd56"
+vg.no. 300 IN TXT "MS=ms58603718"
+vg.no. 300 IN TXT "google-site-verification=CvJrFeKFUvWtMd11AkMfLIwBCKnMr2e4f6dzowPw32A"
+cgi.com. 300 IN A 128.129.48.48
+cgi.com. 176 IN MX 100 mxa-00131701.gslb.pphosted.com.
+cgi.com. 176 IN MX 200 mxb-00131701.gslb.pphosted.com.
+cgi.com. 85358 IN NS a11-65.akam.net.
+cgi.com. 85358 IN NS a14-65.akam.net.
+cgi.com. 85358 IN NS ns.cgi.ca.
+cgi.com. 85358 IN NS ns.cgi.com.
+cgi.com. 176 IN SOA ns.cgi.com. dnsops\.gto.cgi.com. 701924409 1200 180 1209600 3600
+cgi.com. 176 IN TXT "docusign=7f148df8-bf2b-4a7e-95aa-500face1d5fa"
+cgi.com. 176 IN TXT "iO1WocLEdYZdGjztESrG/BIPnzgJpHfnDntpQYor5NnSV8z2H5CT1OwsGo4dlabfYI+/eq2PDsl7giIasExmnA=="
+cgi.com. 176 IN TXT "MS=ms17741480"
+cgi.com. 176 IN TXT "intersight=d1635953a5bf7ff7c1ee0665f56fd7295eb50310cdfa59c698355483e272eb9f"
+cgi.com. 176 IN TXT "intersight=ef236be6ce1bd383c54728d2d02c63d0554ad68ca1ef4fc1387d80c6e730e3a1"
+cgi.com. 176 IN TXT "google-site-verification=hEcl2ms3okyWZ7VGTSd-ohzG0A_oc3Eol4vsCm8IcO0"
+cgi.com. 176 IN TXT "apple-domain-verification=AD13ut9sEQsfdUVZ"
+cgi.com. 176 IN TXT "VcOKGyWXYeCrBDqkM+7nUgqKaGoXzitaKWi4W5mp1DHCoD/AsY7tcEI/MtT5sJGSwiC/vBvvQZuVKsS6eufDVA=="
+cgi.com. 176 IN TXT "v=spf1 include:_netblocks1.cgi.com include:_netblocks2.cgi.com include:_spf-a.cgi.com include:spf-00131701.pphosted.com -all"
+cgi.com. 176 IN TXT "docusign=2b0f9d9f-703c-44ee-9bb3-f8a48665ed18"
+cgi.com. 176 IN TXT "v=msv1 t=475EED98-BB78-4CCD-AC73-B6480566707D"
+cgi.com. 176 IN TXT "atlassian-domain-verification=zdPCcvgm2fdT79g7JFqcOYYHTFNcGNXAJCARswLzw6byK8PKgLP3B91HXeS4+Oqs"
