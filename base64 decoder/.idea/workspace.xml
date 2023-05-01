@@ -1,13 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6ee2e91-ac0e-4412-aee8-0ee8d319efa1" name="Changes" comment="" />
+    <list default="true" id="d6ee2e91-ac0e-4412-aee8-0ee8d319efa1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/security codeing course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/.idea/DNS lookup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/DNS lookup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/Input/domains.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/Output/all_domains.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/Output/soa_dns_records.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/Output/valid_dns_records.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/helper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/helper/file_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DNS lookup/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/.idea/crt.sh parser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/.idea/Solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/Output/politiet.no_crt_domains.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/crt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/crt/crt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/crt_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/helper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/helper/data_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/helper/file_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/helper/network_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/Solution/helper/regex_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crt.sh parser/crt.sh parser.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/.idea/base64 decoder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/access_log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find the spy/find_the_spy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2PBVcCYIcygU50ReJMYxZWYgObx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
